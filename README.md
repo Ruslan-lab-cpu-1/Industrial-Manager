@@ -4,6 +4,15 @@ A game on python
 Make your industrial empire!
 
 # Install
-*Install python
+* Install Python
 # Run the game
-*open _main.py_
+* Open _main.py_
+# Game wiki _for version 1.0_
+(u) — useless
+## Resources
+* Diesel (u)
+* Materials I
+* Materials II (u)
+* Copper (u)
+* Coal (u)
+And more...
