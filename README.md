@@ -1,4 +1,4 @@
 # Industrial Manager
-\nA game on python
+A game on python
 
 Make your industrial empire!
